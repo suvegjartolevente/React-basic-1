@@ -1,0 +1,13 @@
+
+
+.button {
+    border-radius: 25px;
+    padding: 1rem;
+    background-color: rgb(179, 142, 42);
+  }
+  
+  .buttontwo {
+    border-radius: 10px 10px 10px 10px;
+    padding: 2rem;
+    background-color: #5c3111;
+  }
